@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    titleWeb: "Happy anniversary babi ♥️",
+    introTitle: 'Bà xã ahhh',
+    introDesc: `Chúc mừng chuyện tình mình được thêm một tháng nữa haha, nhưng mà như thé thì hong được đâu, phải đi nhiều hơn cơ. Dự định là sẽ đón anni cùng em, nhưng hoàn cảnh hong cho phép mất ròiiiii, giá như nhậu hôm nay thì đã được ở cùng nhau rồi vợ nhờ. 
+    Ox chưa hứa với em gì ngoài việc sẽ cưới em, nhưng mà ox hứa là sẽ đón thật nhiều cái anni cùng bé nữaaa cho nên là bbi của ox đừng buồn một mình nhaaa, ngày trọng đại như này phải vui chứ hong được khóc đâu nha ^^
+    Cám ơn bé vì đã cho ox cơ hội chăm sóc, che chở em. Dù cho có là hôm nay hay những ngày sau nữa, thì ox vẫn muốn nói là ox thương em, thương em bé của ox rất nhiều. 
+    Happy anni babi, gửi ngàn nụ hôn tới em, moahh', 
+    btnIntro: 'Bbi ấn vào điii',
+    title: 'Happy anni 3 tháng của tụi mìnhhhh 🥰',
+    desc: 'Bé có thương ox hemmmm ',
+    btnYes: 'Dạ cóooooo',
+    btnNo: 'Hong nha, thấy ghét quá ai mà thương',
+    question: 'Em có muốn sau này mình sẽ già cùng nhau hong 🤔',
+    btnReply: 'Có hay hong đây taa',
+    reply: 'Dạ có',
+    mess: 'Ox thương em nhất trên đời ',
+    messDesc: 'Mình đi với nhau thật lâu thật lâu nhó bbiiii',
+    btnAccept: 'Dạaaaaa',
+    messLink: 'https://www.facebook.com/messages/t/100040389039681' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
